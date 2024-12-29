@@ -33,8 +33,7 @@ Data was preprocessed to handle missing values, normalize features, and ensure s
 Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/parvanerezaeeaims/parvanerezaeeaims-Income-Prediction-A-3-Month-Forecasting-Project.git
-
-
+```
 
 ## Future Work
 - Incorporate additional external factors like market trends or macroeconomic indicators.
